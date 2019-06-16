@@ -1,0 +1,4 @@
+Nombre: Rebeca López
+Edad: 36
+Color favorito: morado
+Animal favorito: perro
